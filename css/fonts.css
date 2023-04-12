@@ -1,0 +1,12 @@
+/* roboto */
+@font-face {
+    font-family: 'roboto';
+    src: url('../fonts/Roboto-Regular.ttf') format('truetype');
+    font-weight: 400;
+}
+/* HindMadurai */
+@font-face {
+    font-family: 'hind madurai';
+    src: url('../fonts/HindMadurai-Regular.ttf') format('truetype');
+    font-weight: 700;
+}
